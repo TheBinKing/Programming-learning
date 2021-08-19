@@ -1,4 +1,4 @@
-
+/*正常读取结合数组进行逆序输出*/
 #include <iostream>
 using namespace std;
 int num[100], c = 0;

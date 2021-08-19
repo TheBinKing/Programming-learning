@@ -32,10 +32,10 @@
 * .app
 
 #vs配置文件
-/Leetcode/C++/.vs/
+/Luogu/C++/.vs/
 
 #vs debug
-/Leetcode/C++/Debug/
+/Luogu/C++/Debug/
 
 #vs 项目文件
 * .sln
