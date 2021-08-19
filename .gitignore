@@ -1,0 +1,47 @@
+#先决条件
+* .d
+
+#编译的目标文件
+* .slo
+* .lo
+* .o
+* .obj
+
+#预编译头
+* .gch
+* .pch
+
+#编译动态库
+* .so
+* .dylib
+* .dll
+
+# Fortran 模块文件
+* .mod
+* .smod
+
+#编译静态库
+* .lai
+* .la
+* .a
+* .lib
+
+#可执行文件
+* .exe
+* .out
+* .app
+
+#vs配置文件
+/Leetcode/C++/.vs/
+
+#vs debug
+/Leetcode/C++/Debug/
+
+#vs 项目文件
+* .sln
+* .vcxproj
+* .filters
+* .user
+*.sln
+*.vcxproj
+*.filters
