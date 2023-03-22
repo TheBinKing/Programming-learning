@@ -7,6 +7,8 @@
 # @lc code=start
 class Solution:
     def hIndex(self, citations: List[int]) -> int:
+        pass
+    def hIndex1(self, citations: List[int]) -> int:
         """_summary_
         排序+线性搜索 首先将citations进行排序。
         再进行线性搜索，目标是找到一个最长区间使得区间中的每一个数大于等于区间长度，
